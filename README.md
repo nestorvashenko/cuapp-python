@@ -37,8 +37,7 @@ cldcli init myapp --lang python
 myapp/
 ├── src/
 │   ├── main.py          # код приложения
-│   ├── index.css        # стили
-│   └── coldos.d.ts      # декларации ColdOS API
+│   └── index.css        # стили
 ├── assets/              # иконки
 ├── package.json
 └── README.md
