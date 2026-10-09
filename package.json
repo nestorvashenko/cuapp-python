@@ -1,0 +1,9 @@
+{
+  "name": "__APP_ID__",
+  "displayName": "__DISPLAY_NAME__",
+  "version": "1.0.0",
+  "description": "__DESCRIPTION__",
+  "author": "__AUTHOR__",
+  "category": "__CATEGORY__",
+  "lang": "python"
+}
