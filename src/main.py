@@ -1,4 +1,4 @@
-def user_run_application__APP_ID__():
+def __ENTRY_FN__():
     """Приложение ColdOS на Python.
 
     Поддерживается подмножество Python:
