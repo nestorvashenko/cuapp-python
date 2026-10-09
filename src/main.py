@@ -46,7 +46,7 @@ def __ENTRY_FN__():
     </div>
     <div id="allcontent" class="allcontent">
       <h3>Привет из __DISPLAY_NAME__ на Python!</h3>
-      <p>Собрано с {{{{COMPILER_VER}}}}</p>
+      <p>Собрано с {{COMPILER_VER}}</p>
     </div>
     """
 
